@@ -1,0 +1,17 @@
+# Create full conda environment for development, including some useful tools
+name: student
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - wrapt
+  - numpy
+  - matplotlib
+  - netcdf4
+  - xarray
+  - jupyter
+  - cartopy
+  - basemap
+  - ffmpeg
+  - git
+  - wrf-python
