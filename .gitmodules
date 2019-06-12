@@ -1,0 +1,3 @@
+[submodule "wrf_tutorial_data"]
+	path = wrf_tutorial_data
+	url = https://github.com/ncar/wrf_tutorial_data.git
