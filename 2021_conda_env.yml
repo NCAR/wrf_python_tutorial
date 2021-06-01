@@ -11,5 +11,7 @@ dependencies:
   - matplotlib=3.3.0
   - metpy
   - netcdf4
+  - numpy
   - pip
   - wrf-python
+  - xarray
